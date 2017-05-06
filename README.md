@@ -180,6 +180,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
 >本文URL标识符都放置于文末
 
+
+mps
 ###锚点
 其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，比如我们 
 
